@@ -49,9 +49,13 @@ Dashboard
 [Data Source](http://bit.ly/2ISBH3N) <br>
 
 ## Case study :<br>
-**NTSB Aviation Accident Dataset**
+**NTSB Aviation Accident Dataset**<br>
+In the words of NTSB :
+>Aviation Accident Database & Synopses<br>
+The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters. Generally, a preliminary report is available online within a few days of an accident. Factual information is added when available, and when the investigation is completed, the preliminary report is replaced with a final description of the accident and its probable cause. Full narrative descriptions may not be available for dates before 1993, cases under revision, or where NTSB did not have primary investigative responsibility.<br>
+
 Working progress **...**<br>
-Dashboards
+Dashboards<br>
 - [AircraftIncident2000-2004(1)](https://public.tableau.com/profile/maleda#!/vizhome/AircraftAccidentIncidentOverview/AircraftIncident2000-20041)
 - [AircraftIncident2000-2004(2)](https://public.tableau.com/profile/maleda#!/vizhome/AircraftAccidentIncidentOverview/AircraftIncident2000-20042)
 - [AircraftIncident2000-2004(3)](https://public.tableau.com/profile/maleda#!/vizhome/AircraftAccidentIncidentOverview/AircraftIncident2000-20043)<br>
