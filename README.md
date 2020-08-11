@@ -55,6 +55,14 @@ In the words of NTSB :
 The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters. Generally, a preliminary report is available online within a few days of an accident. Factual information is added when available, and when the investigation is completed, the preliminary report is replaced with a final description of the accident and its probable cause. Full narrative descriptions may not be available for dates before 1993, cases under revision, or where NTSB did not have primary investigative responsibility.<br>
 
 Working progress **...**<br>
+since the data is the plan is to partition 20 years data into four, and i am trying to see the accidents based on diffrent stuations and their outcomes <br>
+weatherCondition<br>
+Phase of flight like takeoff, landing, taxi, descent etc<br>
+aircraft model and make <br>
+purpose of flight<br>
+.<br>
+.<br>
+.<br>
 Dashboards<br>
 - [AircraftIncident2000-2004(1)](https://public.tableau.com/profile/maleda#!/vizhome/AircraftAccidentIncidentOverview/AircraftIncident2000-20041)
 - [AircraftIncident2000-2004(2)](https://public.tableau.com/profile/maleda#!/vizhome/AircraftAccidentIncidentOverview/AircraftIncident2000-20042)
